@@ -1,0 +1,24 @@
+_repo: Eveline-Mandeville--13-Or-The-Horse-Thief-Rival_16676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addison, Alvin
+    gutenberg_agent_id: '6644'
+    url: http://www.gutenberg.org/2009/agents/6644
+description: Cover -- Contents.
+gutenberg_issued: '2005-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: "Eveline Mandeville\r\nOr, The Horse Thief Rival"
+url: http://www.gutenberg.org/ebooks/16676

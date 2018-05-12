@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6644'
     url: http://www.gutenberg.org/2009/agents/6644
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16676#Eveline-Mandeville--13-Or-The-Horse-Thief-Rival
 gutenberg_issued: '2005-09-08'
 gutenberg_type: Text
 identifiers:
